@@ -1,4 +1,4 @@
-# Hey there! 👋
+
 
 ## 💫 About Me:
 I’m a full-stack web developer focused on building modern web applications and AI-powered systems.  
