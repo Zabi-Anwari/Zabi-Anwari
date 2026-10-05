@@ -11,7 +11,6 @@ Currently exploring Machine Learning, Deep Learning, and emerging AI technologie
 - 🔭 Currently working on AI-powered web applications
 - 🧠 Learning Machine Learning, Deep Learning, and full-stack AI integration
 - 🌱 Interested in building practical AI tools for real-world problems
-- 💬 Ask me about React, Node.js, Python, and AI/ML basics
 - 🎯 Goal: Become a strong AI-focused full-stack developer
 
 ---
